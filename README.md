@@ -1,0 +1,1 @@
+# elasticsearch6_with_plugins
